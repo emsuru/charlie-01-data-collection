@@ -1,0 +1,18 @@
+{
+    "id": "11157721",
+    "type": "apartment",
+    "subtype": "apartment",
+    "price": "950000",
+    "zip": "2300",
+    "constructionYear": "2022",
+    "build_condition": "",
+    "bedroom_count": "2",
+    "kitchen_installed": 0,
+    "indoor_surface": "237",
+    "building_state": "",
+    "city": "Turnhout",
+    "province": "Antwerp",
+    "parking": "1",
+    "outdoor_terrace_exists": "1",
+    "land_surface": ""
+}

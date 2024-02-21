@@ -1,0 +1,18 @@
+{
+    "id": "11156677",
+    "type": "apartment",
+    "subtype": "apartment",
+    "price": "445000",
+    "zip": "8300",
+    "constructionYear": "1936",
+    "buil_condition": "just renovated",
+    "bedroom_count": "2",
+    "kitchen_installed": 0,
+    "indoor_surface": "75",
+    "building_state": "JUST_RENOVATED",
+    "city": "Knokke-Heist",
+    "province": "West Flanders",
+    "parking": "1",
+    "outdoor_terrace_exists": "0",
+    "land_surface": ""
+}
