@@ -18,26 +18,24 @@ This Scraper is designed to collect data on real estate properties across Belgiu
 python3 -m venv wikipedia_scraper_env
 ```
 
-```
 - activate the environment by executing this command in your terminal:
 
 ```
 source wikipedia_scraper_env/bin/activate
 ```
 - install the required dependencies by executing this command in your terminal:
-
 ```
 pip install -r requirements.txt
-``````
+```
 
 ## 👩‍💻 Usage
 
 To run the program, clone this repo on your local machine, navigate to its directory in your terminal, make sure you have first executed your requirements.txt, then execute:
-
+```
 python3 main.py
+```
 
-
-📂 Project background & timeline
+## 📂 Project background & timeline
 
 This project was done over the course of 3 days in February 2024.
 It is my personal version of a team project I was involved in during the AI Bootcamp in Ghent, Belgium, 2024.
@@ -62,4 +60,4 @@ This is to help me learn and to make my sessions with our training coach more ef
 
 ## Thank you for visiting my project page!
 
-Connect with me on LinkedIn:
+Connect with me on [LinkedIn](https://www.linkedin.com/in/mirunasuru/) 🤍
