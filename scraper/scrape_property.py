@@ -7,7 +7,7 @@ import re  # Library for regular expression operations
 import get_property_links  # Custom module to get property links (not used in this selection)
 
 # Define the function to scrape property data.
-def scrape_property(urls):
+def scrape_property(url):
     """
     Scrape property data from a list of URLs.
 
