@@ -1,6 +1,6 @@
 # Immo Eliza - Real Estate Data Scraper
 
-Welcome to the Immo Eliza Real Estate Data Scraper project! This tool is designed to collect data on real estate properties across Belgium to aid in the development of a machine learning model for price prediction.
+This Scraper is designed to collect data on real estate properties across Belgium to aid in the development of a machine learning model for price prediction.
 
 ## Features
 
