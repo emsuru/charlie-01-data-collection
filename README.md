@@ -1,8 +1,9 @@
-# Immo Eliza - Real Estate Data Scraper
+# Immo Charlie Phase 01: Real Estate Data Scraper
 
 ## 📖 Description
 
-This Scraper is designed to collect data on real estate properties across Belgium to aid in the development of a machine learning model for price prediction.
+This Scraper is designed to collect data on real estate properties for sale across Belgium.
+It is phase 1 of a total of 4 phases of a larger project to develop a machine learning model for price prediction.
 
 ## 🛠️ Features
 
@@ -38,11 +39,11 @@ python3 main.py
 ## 📂 Project background & timeline
 
 This project was done over the course of 3 days in February 2024.
-It is my personal version of a team project I was involved in during the AI Bootcamp in Ghent, Belgium, 2024.
+It is my personal version of a team project I was involved in during the AI Bootcamp in Ghent, Belgium, 2024. 
 
 Its main goals were to practice:
 
-- building a data set from scratch
+- building a data set completely from scratch
 - scraping data from the web at scale
 - practicing threading, multiprocessing
 - practicing exception handling, error handling
