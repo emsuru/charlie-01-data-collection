@@ -154,7 +154,7 @@ def scrape_property(url):
 ## Comment out these next 3 lines if you just want to call the function:
 ## and not save the data to a JSON file in here
 
-    with open('data/property_data.json', 'w') as json_file:
+    with open('output_data/property_data.json', 'w') as json_file:
         json.dump(all_property_data, json_file, indent=4)
         print("Data successfully written to property_data_test.json")
 
@@ -162,7 +162,7 @@ def scrape_property(url):
 ## and not save the data to a CSV file in here
 
     df = pd.DataFrame(all_property_data)  # Convert the dictionary to a pandas DataFrame first
-    df.to_csv('data/property_data.csv', index=False)  #
+    df.to_csv('output_data/property_data.csv', index=False)  #
     print("Data successfully written to property_data.csv")
 
     # Return the list of all property data
