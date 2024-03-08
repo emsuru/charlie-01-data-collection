@@ -1,8 +1,8 @@
-# Immo Charlie Phase 01: Real Estate Data Scraper
+# Immo Charlie Phase 01: Data Collector
 
 ## 📖 Description
 
-This Scraper is designed to collect data on real estate properties for sale across Belgium.
+This Data Collector is designed to collect data on real estate properties for sale across Belgium.
 It is phase 1 of a total of 4 phases of a larger project to develop a machine learning model for price prediction.
 
 ## 🛠️ Features
@@ -11,28 +11,13 @@ It is phase 1 of a total of 4 phases of a larger project to develop a machine le
 - Builds a dataset with detailed property information
 - Saves data in both JSON and CSV formats for further analysis
 
-## 🛠️ Setup & Installation
-
-- create a new virtual environment by executing this command in your terminal:
-
-```
-python3 -m venv wikipedia_scraper_env
-```
-
-- activate the environment by executing this command in your terminal:
-
-```
-source wikipedia_scraper_env/bin/activate
-```
-- install the required dependencies by executing this command in your terminal:
-```
-pip install -r requirements.txt
-```
 
 ## 👩‍💻 Usage
 
-To run the program, clone this repo on your local machine, navigate to its directory in your terminal, make sure you have first executed your requirements.txt, then execute:
+To run the program, clone this repo on your local machine, navigate to its directory in your terminal, first run requirements.txt to install all dependencies then run main:
 ```
+pip install -r requirements.txt
+
 python3 main.py
 ```
 
