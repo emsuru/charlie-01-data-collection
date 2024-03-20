@@ -1,9 +1,10 @@
 # Immo Charlie Phase 01: Data Collector
+[![forthebadge made-with-python](https://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ## 📖 Description
 
 This Data Collector is designed to collect data on real estate properties for sale across Belgium.
-It is phase 1 of a total of 4 phases of a larger project to develop a machine learning model for price prediction.
+It is phase 1 of a total of 4 phases of a larger project to develop a machine learning model for price prediction. See phase 2 (data analysis) [here](https://github.com/emsuru/charlie-02-data-analysis) and phase 3 (ML model development) [here]((https://github.com/emsuru/charlie-03-ML-model-development)).
 
 ## 🛠️ Features
 
