@@ -28,8 +28,7 @@ python3 main.py
 ```
 
 
-
-## ⏱️ Project background & timeline
+## ⏱️ Background & timeline
 
 This project was done over the course of 3 days in February 2024, during the AI Bootcamp in Ghent, Belgium, 2024. 
 
@@ -46,7 +45,7 @@ All my code is currently heavily:
 
 - docstringed
 - commented
-- .. and sometimes typed.
+- and sometimes typed
 
 This is to help me learn and to make my sessions with our training coach more efficient.
 
