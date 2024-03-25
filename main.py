@@ -4,7 +4,7 @@ import pandas as pd
 
 def main():
     base_search_url = 'https://www.immoweb.be/en/search/house-and-apartment/for-sale'
-    pages = 400
+    pages = 400 # change / update this number before executing the program (the bigger this number, the longer it will take to run)
 
     property_urls = get_property_links(base_url=base_search_url, pages=pages)
 
